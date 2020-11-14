@@ -1,1 +1,2 @@
 # GarageLab 
+# Must have visual studios installed on machine to utilize, in addition to this download all files, create a new project save all these files in there. If any errors opening or running the files occur. Just create a new project with new header and .cpp files equal to the total number of them that you see in the GarageLab list and copy and paste the code into the newly created headers,texts, and cpp files. 
